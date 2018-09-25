@@ -1,0 +1,207 @@
+body {
+  background-color: #0F1338;
+  font-size: 20px;
+}
+
+/*Banniere*/
+
+#ban {
+  max-width: 80%;
+  max-height: auto;
+}
+
+#banner {
+  align-self: center;
+  text-align: center;
+}
+
+#description {
+  font-size: 20px;
+}
+
+/* nav*/
+
+nav{
+  border-bottom: 2.5px solid #FFB801;
+  border-top: 2.5px solid #FFB801;
+  font-size: 20px!important;
+}
+
+nav img{
+  height:7.5vh;
+  width: auto;
+}
+
+
+/* div*/
+
+#sheet{
+  margin-top: 2.5vh;
+  text-align: center;
+  width: 90%;
+  border: 2.5px solid #FFB801;
+}
+
+#trumpPortrait {
+  width: 100%;
+  height: auto;
+  margin-top: 2.5vh;
+  margin-bottom: 2.5vh;
+}
+
+/* Footer */
+
+
+#divFooter .modal-footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+#divFooter {
+  display: flex;
+  justify-content: center;
+  background-color: #0F1338;
+}
+
+.socialImg {
+  margin: 2vh;
+  height: 5.5vh;
+  width: auto;
+  background-color:  #0F1338;
+  border: 2.5px solid #0F1338;
+  border-radius: 7.5px;
+}
+
+#socialImg1 {
+  margin: 2vh;
+  height: 5.5vh;
+  width: auto;
+  background-color:  #0F1338;
+  border-radius: 7.5px;
+}
+
+/*Tweets*/
+
+#tweetIMG1 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+#tweetIMG2 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+#tweetIMG3 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+#tweetIMG4 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+#tweetIMG5 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+#tweetIMG6 {
+  max-width: 250px;
+  max-height: auto;
+  border-radius: 7.5px;
+  margin: 9px;
+}
+
+.tweetTRAD {
+  margin: 20px;
+  font-size: 20px;
+  color:#0F1338;
+}
+
+.con1{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+}
+
+
+/*/ Expériences /*/
+
+#experienceContent .col-md-5{
+  margin: 2.5vh;
+  border: 2.5px solid #FFB801;
+}
+
+#experienceContent .col-md-5 img {
+  width: 100%;
+  height:auto;
+}
+
+.modal-content {
+  border: 2.5px solid #FFB801;
+}
+
+
+
+
+/* Etudes */
+
+
+#sheetEtudes {
+
+  margin-top: 4vh;
+  text-align: center;
+  align-items: center;
+  border: 2.5px solid #FFB801;
+
+}
+
+#trumpPhoto1 {
+  margin: 3vh;
+
+  height: auto;
+  width: 40vh;
+}
+
+#trumpPhoto2 {
+  margin: 3vh;
+  height: auto;
+  width: 65vh;
+}
+
+#trumpPhoto3 {
+  margin: 3vh;
+  height: auto;
+  width: 65vh;
+}
+
+#texte1 {
+  margin-right: 9vh;
+  margin-left: 9vh;
+}
+
+#texte2 {
+  margin-right: 9vh;
+  margin-left: 9vh;
+}
+
+#texte3 {
+  margin-right: 9vh;
+  margin-left: 9vh;
+}
+
+.btn-primary {
+  background-color:  #0F1338;
+}
+
+.btn-primary:hover{
+  background-color:  #FFB801;
+}
